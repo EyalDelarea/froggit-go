@@ -10,7 +10,7 @@ require (
 	github.com/grokify/mogo v0.50.0
 	github.com/jfrog/gofrog v1.3.0
 	github.com/ktrysmt/go-bitbucket v0.9.63
-	github.com/microsoft/azure-devops-go-api/azuredevops v1.0.0-b5
+	github.com/microsoft/azure-devops-go-api/azuredevops/v7 v7.1.0
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/stretchr/testify v1.8.4
 	github.com/xanzy/go-gitlab v0.88.0
